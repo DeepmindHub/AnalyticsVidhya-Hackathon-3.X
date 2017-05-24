@@ -1,4 +1,4 @@
-######### Python code for AV Hack 3.x , Author = Aayush Agrawal ##########
+
 
 # Step 1: Importing Libraries
 from sklearn.ensemble import RandomForestClassifier
